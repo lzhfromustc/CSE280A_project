@@ -1,0 +1,22 @@
+========Venn Diagram
+        Total TR Number:6883
+        Ziheng Only:1649        Ziheng_Harish:437       Ziheng_Candace:304
+        Harish Only:1445        Harish_Candace:641
+        Candace Only:2294       All Three:113    None:0
+
+========How many TR have the same copy number
+        Between three dolphins:59
+        Between two dolphins:772
+        Only two have this TR and the copy num is same:732
+========Which chromosomes have most TR or least TR
+        ===Least
+        NO.1 Chromosome 21 has 130 Tandeom Repeats
+        NO.2 Chromosome 12 has 171 Tandeom Repeats
+        NO.3 Chromosome 7 has 175 Tandeom Repeats
+        ===Most
+        NO.20 Chromosome 2 has 504 Tandeom Repeats
+        NO.21 Chromosome 19 has 551 Tandeom Repeats
+        NO.22 Chromosome 1 has 688 Tandeom Repeats
+=======Among all copy numbers that are not 0, 3888 are integer, and 4603 are float number
+=======Among all existing consensus of the same TR, 31 are all three exactly the same, and 426 have two exactly the same
+
